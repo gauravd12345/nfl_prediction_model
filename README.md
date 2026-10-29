@@ -1,6 +1,6 @@
 # NFL Prediction Model
 
-This repository contains a series of models for predicting NFL match results. The writeup and background for each kind of model is included below. My goal for this project was to design successively more advanced models to gauge which statistical method was best.
+This repository contains a series of models for predicting NFL match results. The writeup and background for each kind of model is included below. My goal for this project was to design a series of models to gauge which statistical method is best.
 
 
 ### Bernoulli Modelling

@@ -41,7 +41,7 @@ wlp = {}
 for wr, lr in zip(wins, losses):
     wlp[wr] = wlp.get(wr, 0) + wins[wr] / (wins[wr] + losses[lr])
 
-# calculate bernoulli likelihood of each team winning
+# calculate bernoulli likelihood of each team winning every game
 likelihood = {}
 for p in wlp:
     print(p, N[p], wins[p], losses[p])
